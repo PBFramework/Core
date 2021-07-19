@@ -21,6 +21,6 @@ Database run's on MSSQL.
 	* PW : maldito
 	* Grant Database Role to mainappusers<group_MainAPP>	
 	* Grand Server Role to mainappusers<serveradmin>
-	* You can also found mainappusers parameters in FLOGIN table for any posible changes
+	* You can also find mainappusers parameters in FLOGIN table for any posible changes
 
 Enjoy...
